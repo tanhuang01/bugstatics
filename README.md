@@ -6,3 +6,5 @@
 [mozila_bugs](https://github.com/tanhuang01/bugstatics/blob/main/mozila_bugs.md)
 
 [apache_bugs](https://github.com/tanhuang01/bugstatics/blob/main/apache_bugs.md)
+
+[gcc_bugs](https://github.com/tanhuang01/bugstatics/blob/main/GCC_bugs.md)
