@@ -1,6 +1,6 @@
 ### bugs of "type conversion", "type casting", "type coercion" from Cassandra, HBase and HDFS. 
 
-[link to the online search reasul](https://issues.apache.org/jira/issues/?jql=project%20in%20(CASSANDRA%2C%20HDFS%2C%20HBASE)%20AND%20issuetype%20%3D%20Bug%20AND%20text%20~%20%22%5C%22type%20coercion%5C%22%20OR%20%5C%22type%20conversion%5C%22%20OR%20%5C%22type%20casting%5C%22%22%20ORDER%20BY%20key%20ASC%2C%20issuetype%20DESC%2C%20summary%20ASC%2C%20cf%5B12310041%5D%20DESC)
+[link to the online search reasult](https://issues.apache.org/jira/issues/?jql=project%20in%20(CASSANDRA%2C%20HDFS%2C%20HBASE)%20AND%20issuetype%20%3D%20Bug%20AND%20text%20~%20%22%5C%22type%20coercion%5C%22%20OR%20%5C%22type%20conversion%5C%22%20OR%20%5C%22type%20casting%5C%22%22%20ORDER%20BY%20key%20ASC%2C%20issuetype%20DESC%2C%20summary%20ASC%2C%20cf%5B12310041%5D%20DESC)
 
 |Issue_Type|Issue_key|Issue_id|Summary|Assignee|Reporter|Priority|Status|Resolution|Created|Updated|Due Date|
 |----|----|----|----|----|----|----|----|----|----|----|----|
