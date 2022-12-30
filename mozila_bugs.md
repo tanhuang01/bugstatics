@@ -1,6 +1,10 @@
 ### mozila bugs of "type conversion" and "type casting" 
 > There are only bugs of mozila whose summery contains "type" and "conversion" rather than "type conversion", so as to these bugs of "type casting"
 
+[on line results of "type conversion"](https://bugzilla.mozilla.org/buglist.cgi?classification=Client%20Software&classification=Developer%20Infrastructure&classification=Components&classification=Server%20Software&classification=Other&short_desc_type=allwordssubstr&short_desc=type%20conversion&query_format=advanced&resolution=---)
+
+[on line results of "type casting"](https://bugzilla.mozilla.org/buglist.cgi?query_format=advanced&short_desc=type%20casting&resolution=---&classification=Client%20Software&classification=Developer%20Infrastructure&classification=Components&classification=Server%20Software&classification=Other&short_desc_type=allwordssubstr)
+
 |Bug_ID|Type|Summary|Product|Component|Assignee|Status|Resolution|Updated|
 |------|----|---- |---- |---- |----|---- |----|----|
 | [1511615](https://bugzilla.mozilla.org/show_bug.cgi?id=1511615)	 |defect	|Intermittent Tier 2 Android tests/jit-test/jit-test/tests/ctypes/conversion-finalizer.js  Segmentation fault (code 139, args "--ion-eager --ion-offthread-compile=off --ion-check-range-analysis --ion-extra-checks --no-sse3 --no-threads") [0.3 s]	|Core	|JavaScript Engine: JIT	|nobody	|NEW	|---	|2022/10/11 15:16|
