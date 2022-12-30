@@ -1,4 +1,9 @@
-### bugs of "casting" and "typer conversion"
+### bugs of "casting" and "type conversion"
+
+[on line result of "casting"](https://bugs.mysql.com/search.php?search_for=%22casting%22&include_comments=on&status%5B%5D=Active&severity=&limit=30&order_by=&cmd=display&phpver=&os=0&os_details=&bug_age=0&cpu_arch=0&cpu_arch_details=&last_updated=0&tags=&similar=)
+
+[on line result of "type conversion"](https://bugs.mysql.com/search.php?search_for=%22type+conversion%22&include_comments=on&status%5B%5D=Active&severity=&limit=30&order_by=&cmd=display&phpver=&os=0&os_details=&bug_age=0&cpu_arch=0&cpu_arch_details=&last_updated=0&tags=&similar=)
+
 
 | No. | ID    | Entered             | Modified            | Type              | Status   | Severity | Version                                                                   | OS                                   | Summary                                                                            |
 |-----|-------|---------------------|---------------------|-------------------|----------|----------|---------------------------------------------------------------------------|--------------------------------------|------------------------------------------------------------------------------------|
