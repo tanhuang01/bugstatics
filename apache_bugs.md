@@ -1,6 +1,10 @@
 ### apache bugs of "type conversion" and "type casting"
 > There are only bugs of apache whose summery contains "type" and "conversion" rather than "type conversion", so as to these bugs of "type casting"
 
+[on line result of "type conversion"](https://bz.apache.org/bugzilla/buglist.cgi?quicksearch=type%20conversion)
+
+[on line result of "type casting"](https://bz.apache.org/bugzilla/buglist.cgi?quicksearch=type%20casting)
+
 |Bug_ID|Product|Component|Assignee|Severity|Status|Resolution|Summary|Changed|
 |----|----|----|----|----|----|----|----|----|
 |[60962](https://bz.apache.org/bugzilla/show_bug.cgi?id=60962)	|Apache httpd-2	|Build	|bugs	|normal	|NEW	 |---	|httpd-2.4.25: build fails against openssl-1.1 that lacks deprecated features	|2019/7/17 15:48|
