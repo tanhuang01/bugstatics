@@ -1,5 +1,6 @@
 ### GCC bugs of "type conversion"(40), "type casting"(4) and "type coercion"(1)
 
+[on line result of "type conversion", "type casting" and "type coercion"](https://gcc.gnu.org/bugzilla//buglist.cgi?quicksearch=%22type%20conversion%22%20OR%20%22type%20casting%22%20OR%20%22type%20coersion%22)
 
 |Bug_ID	|Product	|Component	|Severity	|Assignee	|Status	|Resolution	|Summary	|Changed|
 |----	|----	|----	|----	|----	|----	|----	|----	|----|
