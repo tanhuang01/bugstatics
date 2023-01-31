@@ -10,4 +10,4 @@
 |8|[930252](https://bugs.chromium.org/p/chromium/issues/detail?id=930252&can=1&q=%28%22type%20conversion%22%20OR%20%22type%20casting%22%20%29%20status%3DFixed)|Refactor: Remove uses of unsigned long in blink| not a bug, remove unsigned type to avoid introducing bugs|
 |9|[844285](https://bugs.chromium.org/p/chromium/issues/detail?id=844285&can=1&q=%28%22type%20conversion%22%20OR%20%22type%20casting%22%20%29%20status%3DFixed)|Build error about type conversion| | 
 |10|[603656](https://bugs.chromium.org/p/chromium/issues/detail?id=603656&can=1&q=%28%22type%20conversion%22%20OR%20%22type%20casting%22%20%29%20status%3DFixed)|Type casting bug in QUIC can cause errors for large (> 4GB) transfers. | missing frame recording logic in a 32-bit machine. |
-
+|11|[548375](https://bugs.chromium.org/p/chromium/issues/detail?id=548375&can=1&q=%28%22type%20conversion%22%20OR%20%22type%20casting%22%20%29%20status%3DFixed)|DCHECK_GE in rand_util.cc:24 fails for certain inputs| an overflow that was caused by casting UNIX_MAX to int |
