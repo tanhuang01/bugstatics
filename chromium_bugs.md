@@ -16,6 +16,6 @@
 |14|[39346](https://bugs.chromium.org/p/chromium/issues/detail?id=393464&can=1&q=%28%22type%20conversion%22%20OR%20%22type%20casting%22%20%29%20status%3DFixed)|Element.scrollTop max value reduced| because of unnecessary type casting, the values are champled inproperly|
 |15|[346626](https://bugs.chromium.org/p/chromium/issues/detail?id=346626&can=1&q=%28%22type%20conversion%22%20OR%20%22type%20casting%22%20%29%20status%3DFixed)|Enable Android x64 Build| problems that cause crashes, warnings during the process of making x64 enable | 
 |16|[324829](https://bugs.chromium.org/p/chromium/issues/detail?id=324829&can=1&q=%28%22type%20conversion%22%20OR%20%22type%20casting%22%20%29%20status%3DFixed)|Mojom: Add array bounds debug assertions| improve type conversion for empty strings.|
-
+|17|[309938](https://bugs.chromium.org/p/chromium/issues/detail?id=309938&can=1&q=%28%22type%20conversion%22%20OR%20%22type%20casting%22%20%29%20status%3DFixed)|Fix build for x64 with component=static_library| A compile error occurs due to a bad type conversion| 
 
 
