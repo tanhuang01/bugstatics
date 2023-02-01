@@ -19,3 +19,12 @@
 |17|[309938](https://bugs.chromium.org/p/chromium/issues/detail?id=309938&can=1&q=%28%22type%20conversion%22%20OR%20%22type%20casting%22%20%29%20status%3DFixed)|Fix build for x64 with component=static_library| A compile error occurs due to a bad type conversion| 
 
 
+<br>
+
+Bugs or problems that include type-conversion.
+|id|summery|remark|
+|----|----|----|
+|[239879](https://bugs.chromium.org/p/chromium/issues/detail?id=239879&can=1&q=%28%22type%20conversion%22%20OR%20%22type%20casting%22%20%29%20status%3DFixed)|Allow user-selectable paper size for printers in Print Preview| Fix C++ type-conversion during development | 
+
+
+
