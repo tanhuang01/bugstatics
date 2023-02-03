@@ -1,7 +1,7 @@
 
 ~~[mysql bugs](https://github.com/tanhuang01/bugstatics/blob/main/mysql_bugs.md)~~ (there are no codes or bugs solutions on the mysql bugs platform, only methods for reproducing)
 
-[chrome_bugs](https://github.com/tanhuang01/bugstatics/blob/main/chromium_bugs.md)
+[chrome_bugs](https://github.com/tanhuang01/bugstatics/blob/main/chromium_bugs.md)(17 bugs + 1 relavant)
 
 [mozila_bugs](https://github.com/tanhuang01/bugstatics/blob/main/mozila_bugs.md)
 
