@@ -5,7 +5,7 @@
 
 [mozila_bugs](https://github.com/tanhuang01/bugstatics/blob/main/mozila_bugs.md)
 
-[apache_bugs](https://github.com/tanhuang01/bugstatics/blob/main/apache_bugs.md)
+~~[apache_bugs](https://github.com/tanhuang01/bugstatics/blob/main/apache_bugs.md)~~ (there are no codes or bugs solution on the apache bugs platform, only comments)
 
 [gcc_bugs](https://github.com/tanhuang01/bugstatics/blob/main/GCC_bugs.md)
 
