@@ -3,7 +3,7 @@
 
 [chrome_bugs](https://github.com/tanhuang01/bugstatics/blob/main/chromium_bugs.md)(17 bugs + 1 relavant)
 
-[mozila_bugs](https://github.com/tanhuang01/bugstatics/blob/main/mozila_bugs.md)
+[mozila_bugs](https://github.com/tanhuang01/bugstatics/blob/main/mozila_bugs.md)(3 bugs + 2 relavant)
 
 ~~[apache_bugs](https://github.com/tanhuang01/bugstatics/blob/main/apache_bugs.md)~~ (there are no codes or bugs solution on the apache bugs platform, only comments)
 
