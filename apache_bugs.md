@@ -3,3 +3,4 @@
 |Num|id|summery|remark|
 |----|----|----|----|
 |01|[58016](https://bz.apache.org/bugzilla/show_bug.cgi?id=58016)|Error type casting using external SSL Provider| no patch for the bug, but the assignee told how to fix the bug in the comment. |
+|02|[4501](https://bz.apache.org/bugzilla/show_bug.cgi?id=4501)| java.lang.ClassCastException: org.apache.jasper.JasperException when syntax error in JSP page | no patch for the bug, but the assignee told how to fix the bug in the comment. |
