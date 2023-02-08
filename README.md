@@ -1,13 +1,13 @@
 
 ~~[mysql bugs](https://github.com/tanhuang01/bugstatics/blob/main/mysql_bugs.md)~~ (there are no codes or bugs solutions on the mysql bugs platform, only methods for reproducing)
 
-[chrome_bugs](https://github.com/tanhuang01/bugstatics/blob/main/chromium_bugs.md)(17 bugs + 1 relavant)
+[chrome_bugs](https://github.com/tanhuang01/bugstatics/blob/main/chromium_bugs.md)(101/101 17 bugs + 1 relevant)
 
-[mozila_bugs](https://github.com/tanhuang01/bugstatics/blob/main/mozila_bugs.md)(3 bugs + 2 relavant)
+[mozila_bugs](https://github.com/tanhuang01/bugstatics/blob/main/mozila_bugs.md)(22/22 3 bugs + 2 relavant)
 
-[apache_bugs](https://github.com/tanhuang01/bugstatics/blob/main/apache_bugs.md) ( 3 bugs) 
+[apache_bugs](https://github.com/tanhuang01/bugstatics/blob/main/apache_bugs.md) (6/6 3 bugs) 
 
-[gcc_bugs](https://github.com/tanhuang01/bugstatics/blob/main/GCC_bugs.md)
+[gcc_bugs](https://github.com/tanhuang01/bugstatics/blob/main/GCC_bugs.md)(153/301 6 bugs + 3 relevant)
 
 [Cassandra&HBase&HDFS_bugs](https://github.com/tanhuang01/bugstatics/blob/main/Cassandra_Hbase_HDFS_bugs.md)
 
