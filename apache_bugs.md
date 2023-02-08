@@ -7,6 +7,8 @@
 |03|[57148](https://bz.apache.org/bugzilla/show_bug.cgi?id=57148)| EL type conversion of empty string when there is a PropertyEditor (ELSupport.coerceToType()) | a bug that use the error rules of the type conversion | 
 |04|[35642](https://gcc.gnu.org/bugzilla/show_bug.cgi?id=35642) | short * short multiplication not vectorized on Power | |
 |05|[55058](https://gcc.gnu.org/bugzilla/show_bug.cgi?id=55058) | [4.7/4.8 Regression] Unexpected invalid type conversion error | |
+|06|[17453](https://gcc.gnu.org/bugzilla/show_bug.cgi?id=17453) | G++ type conversion bug | It's not a real bug, but a misuse for iterator of gcc++ by a coder. |
+
 
 &nbsp;
 &nbsp;
