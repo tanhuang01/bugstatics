@@ -1,4 +1,6 @@
-### apache bugs of "type conversion" , "type casting", "type coercion" , "type juggling", "type confusion", "downcast" or "upcast".
+#### apache bugs of "type conversion" , "type casting", "type coercion" , "type juggling", "type confusion", "downcast" or "upcast".
+
+[search results](https://bz.apache.org/bugzilla/buglist.cgi?regetlastlist=cookie)
 
 |Num|id|summery|remark|
 |----|----|----|----|
