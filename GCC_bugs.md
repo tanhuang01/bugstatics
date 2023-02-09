@@ -9,7 +9,7 @@
 |05|[83383](https://gcc.gnu.org/bugzilla/show_bug.cgi?id=83383) | [8 Regression] Wrong code with a bunch of type conversion and ternary operators | |
 |06|[39415](https://gcc.gnu.org/bugzilla/show_bug.cgi?id=39415) |static_cast used as downcast can silently lose const | | 
 |07|[58119](https://gcc.gnu.org/bugzilla/show_bug.cgi?id=58119) | [4.7/4.8/4.9 Regression] Invalid ambiguous default type conversion with only a single invalid conversion listed. | [FixUrl_link](https://gcc.gnu.org/git/?p=gcc.git;a=commitdiff;h=4e2a8865a76ea268c07d3708cb8efd7f211f87d1;hp=1a9317cf579b4afaba01774e45b037d7f6fe9854)|
-
+|08|[36695](https://gcc.gnu.org/bugzilla/show_bug.cgi?id=36695) | [4.3 Regression] Value-initialization of reference type is allowed. | | 
 
 
 &nbsp;
