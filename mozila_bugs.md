@@ -1,3 +1,11 @@
+#### bugs of "type conversion" , "type casting", "type coercion" , "type juggling", "type confusion", "downcast" or "upcast".
+
+&nbsp;
+&nbsp;
+
+useful bugs:
+
+> the code patch url is in the **Attachment** block, you can click the **diff** in the block to see what was modified or corrected by the code patch.
 
 |Num|Bug_ID|Summary|remark|
 |------|----|---- |---- |
@@ -6,8 +14,10 @@
 |03|[20833](https://bugzilla.mozilla.org/show_bug.cgi?id=20833)|Build warning caused by bug in xpidl, converting unsigned positive number to negative number||
 
 
-<br>
+&nbsp;&nbsp;
+&nbsp;&nbsp;
 
+Relevant bugs
 |Num|Bug_ID|Summary|remark|
 |------|----|---- |---- |
 |01|[63549](https://bugzilla.mozilla.org/show_bug.cgi?id=635649)|Refactor Wave backend to use content/media nsBuiltinDecoder framework| type conversion error when use timestamp |
