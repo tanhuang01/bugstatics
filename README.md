@@ -5,7 +5,7 @@
 
 [mozila_bugs](https://github.com/tanhuang01/bugstatics/blob/main/mozila_bugs.md)(22/22 3 bugs + 2 relavant)
 
-[apache_bugs](https://github.com/tanhuang01/bugstatics/blob/main/apache_bugs.md) (6/6 3 relevant) 
+[apache_bugs](https://github.com/tanhuang01/bugstatics/blob/main/apache_bugs.md) (15/15 3 relevant) 
 
 [gcc_bugs](https://github.com/tanhuang01/bugstatics/blob/main/GCC_bugs.md)(301/301 10 bugs + 3 relevant)
 
