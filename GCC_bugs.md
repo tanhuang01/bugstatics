@@ -1,5 +1,13 @@
-### gcc bugs of "type conversion" , "type casting", "type coercion" , "type juggling", "type confusion", "downcast" or "upcast".
+#### gcc bugs of "type conversion" , "type casting", "type coercion" , "type juggling", "type confusion", "downcast" or "upcast".
 
+[search results link](https://gcc.gnu.org/bugzilla/buglist.cgi?bug_status=__closed__&content=%22type%20conversion%22%20%7C%20%22type%20casting%22%20%7C%20%22type%20coercion%22%20%7C%20%22type%20juggling%22%20%7C%20%22type%20confusion%22%20%7C%20%22downcast%22%20%7C%20%22upcast%22&no_redirect=1&order=Importance&query_format=specific)
+
+nbsp;
+nbsp;
+nbsp;
+nbsp;
+
+useful bugs.
 |Num|id|summery|remark|
 |----|----|----|----|
 |01|[35642](https://gcc.gnu.org/bugzilla/show_bug.cgi?id=35642) | short * short multiplication not vectorized on Power |  |
