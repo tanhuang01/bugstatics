@@ -7,6 +7,7 @@
 |03|[17453](https://gcc.gnu.org/bugzilla/show_bug.cgi?id=17453) | G++ type conversion bug | It's not a real bug, but a misuse for iterator of gcc++ by a coder. |
 |04|[10735](https://gcc.gnu.org/bugzilla/show_bug.cgi?id=10735) | ICE on correct type conversion with vector| |
 |05|[83383](https://gcc.gnu.org/bugzilla/show_bug.cgi?id=83383) | [8 Regression] Wrong code with a bunch of type conversion and ternary operators | |
+|06|[39415](https://gcc.gnu.org/bugzilla/show_bug.cgi?id=39415) |static_cast used as downcast can silently lose const | | 
 
 
 
