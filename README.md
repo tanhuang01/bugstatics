@@ -11,3 +11,5 @@
 
 ~~[Cassandra&HBase&HDFS_bugs](https://github.com/tanhuang01/bugstatics/blob/main/Cassandra_Hbase_HDFS_bugs.md)~~(0/9 there are no code or bugs resolution on the there jira platform, only relevant comments)
 
+cenOS bugs([CenOs Bug Tracker](https://bugs.centos.org/view_all_bug_page.php?refresh=true) there are no codes or bugs resolutions on the platform)
+
