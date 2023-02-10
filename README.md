@@ -11,7 +11,9 @@
 
 ~~[Cassandra&HBase&HDFS_bugs](https://github.com/tanhuang01/bugstatics/blob/main/Cassandra_Hbase_HDFS_bugs.md)~~(0/9 there are no code or bugs resolution on the there jira platform, only relevant comments)
 
-cenOS_bugs([CenOs Bug Tracker](https://bugs.centos.org/view_all_bug_page.php?refresh=true) there are no codes or bugs resolutions on the platform)
+~~cenOS_bugs([CenOs Bug Tracker](https://bugs.centos.org/view_all_bug_page.php?refresh=true)~~ there are no codes or bugs resolutions on the platform)
 
-postgres_bugs([pgsql-bugs](https://www.postgresql.org/list/pgsql-bugs/) therea are no code or bugs resolution on the platform, and the platform even do not support advanced search for a bug)
+~~postgres_bugs([pgsql-bugs](https://www.postgresql.org/list/pgsql-bugs/)~~ there are no code or bugs resolution on the platform, and the platform even do not support advanced search for a bug)
+
+~~coreUtils_bugs([bug coreUtils](https://lists.gnu.org/archive/cgi-bin/namazu.cgi?query=%22type+conversion%22+%7C+%22type+casting%22+%7C+%22type+coercion%22+%7C+%22type+juggling%22+%7C+%22type+confuion%22+%7C+%22upcast%22+%7C+%22downcast%22&submit=Search%21&idxname=bug-coreutils&max=100&result=normal&sort=score)~~ there are no code or bugs resolution on the platform, and the few bugs about 'type conversion' or the relevant)
 
