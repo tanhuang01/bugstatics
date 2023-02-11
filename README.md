@@ -25,3 +25,14 @@
 
 [lighttpd_bugs](https://github.com/tanhuang01/bugstatics/blob/main/lighttpd_bugs.md) (10/10 **1** bug)
 
+~~PostFix_bugs([PostFix_bugs](https://rt.cpan.org/Search/Simple.html)~~ (there are few relevant bugs, no more say patched relevant bugs)
+
+
+
+
+
+
+
+
+
+
