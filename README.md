@@ -20,3 +20,5 @@
 [squid_bugs](https://github.com/tanhuang01/bugstatics/blob/main/squid_bugs.md) (10/10 0 bugs. Squid use bugzilia to manage its bugs, but there are no code patches of bugs)
 
 [OpenSSH](https://bugzilla.mindrot.org/buglist.cgi?bug_status=__closed__&content=%22type%20conversion%22%20%7C%20%22type%20casting%22%20%7C%20%22type%20coercion%22%20%7C%20%22type%20juggling%22%20%7C%20%22type%20confusion%22%20%7C%20%22downcast%22%20%7C%20%22upcast%22&no_redirect=1&order=Importance&query_format=specific) (0/0 0 bugs. OpenSSH use bugzilia to manage its bugs, but there are no bugs about type conversion or the relevant)
+
+~~Ngnix_bugs ([ngnix](https://trac.nginx.org/nginx/ticket/1368#no1)~~ (there are few relevant bugs, which is called tickets on the platform, that were displayed on Ngnix bug-management-platform. What's more, there are few bugs that were shown on the platform. )
