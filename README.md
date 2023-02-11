@@ -18,3 +18,5 @@
 ~~coreUtils_bugs([bug coreUtils](https://lists.gnu.org/archive/cgi-bin/namazu.cgi?query=%22type+conversion%22+%7C+%22type+casting%22+%7C+%22type+coercion%22+%7C+%22type+juggling%22+%7C+%22type+confuion%22+%7C+%22upcast%22+%7C+%22downcast%22&submit=Search%21&idxname=bug-coreutils&max=100&result=normal&sort=score)~~ there are no code or bugs resolution on the platform, and the few bugs about 'type conversion' or the relevant)
 
 [squid_bugs](https://github.com/tanhuang01/bugstatics/blob/main/squid_bugs.md) (10/10 0 bugs. Squid use bugzilia to manage its bugs, but there are no code patches of bugs)
+
+[OpenSSH](https://bugzilla.mindrot.org/buglist.cgi?bug_status=__closed__&content=%22type%20conversion%22%20%7C%20%22type%20casting%22%20%7C%20%22type%20coercion%22%20%7C%20%22type%20juggling%22%20%7C%20%22type%20confusion%22%20%7C%20%22downcast%22%20%7C%20%22upcast%22&no_redirect=1&order=Importance&query_format=specific) (0/0 0 bugs. OpenSSH use bugzilia to manage its bugs, but there are no bugs about type conversion or the relevant)
