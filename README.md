@@ -35,5 +35,6 @@
 
 [wineHQ_bugs](https://github.com/tanhuang01/bugstatics/blob/main/wineHQ.md) (11/11 **2** bugs + 1 relevant)
 
+[freeBSD_bugs](https://github.com/tanhuang01/bugstatics/blob/main/FreeBSD_bugs.md)(47/47 0 bugs)
 
 
