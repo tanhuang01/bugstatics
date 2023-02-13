@@ -27,7 +27,7 @@
 
 ~~PostFix_bugs([PostFix_bugs](https://rt.cpan.org/Search/Simple.html)~~ (there are few relevant bugs, no more say patched relevant bugs)
 
-
+~~VSFTPD_bugs([search_link](https://bugs.launchpad.net/ubuntu/+source/vsftpd)~~ Releases are infrequent since bug reports are infrequent at this time. Also, the FTP protocol is sunsetting, which is probably not a terrible thing. I did not find a platform to report a bug)
 
 
 
