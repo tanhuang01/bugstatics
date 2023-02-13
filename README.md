@@ -29,7 +29,7 @@
 
 ~~VSFTPD_bugs([search_link](https://bugs.launchpad.net/ubuntu/+source/vsftpd)~~ Releases are infrequent since bug reports are infrequent at this time. Also, the FTP protocol is sunsetting, which is probably not a terrible thing. I did not find a platform to report a bug)
 
-
+[linux_bugs](https://bugzilla.kernel.org/buglist.cgi?bug_status=__closed__&content=%22type%20conversion%22%20%7C%20%22type%20casting%22%20%7C%20%22type%20coercion%22%20%7C%20%22type%20juggling%22%20%7C%20%22type%20confusion%22%20%7C%20%22downcast%22%20%7C%20%22upcast%22&no_redirect=1&order=Importance&query_format=specific) (5/5 0 bug)
 
 
 
