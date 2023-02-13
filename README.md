@@ -33,7 +33,7 @@
 
 ~~[openSolaris_bugs](https://illumos.org/opensolaris/bugdb/bug.html)~~ (The distributed operating system has its bug management platform, but it only support searching by bug id)
 
-[wineHQ_bugs](https://bugs.winehq.org/buglist.cgi?bug_status=__closed__&content=%22type%20conversion%22%20%7C%20%22type%20casting%22%20%7C%20%22type%20coercion%22%20%7C%20%22type%20juggling%22%20%7C%20%22type%20confusion%22%20%7C%20%22downcast%22%20%7C%20%22upcast%22&no_redirect=1&order=Importance&product=&query_format=specific) ()
+[wineHQ_bugs](https://github.com/tanhuang01/bugstatics/blob/main/wineHQ.md) (11/11 **2** bugs + 1 relevant)
 
 
 
