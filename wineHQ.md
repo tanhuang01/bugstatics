@@ -6,3 +6,10 @@
 |----|----|----|----|
 |01|[28619](https://bugs.winehq.org/show_bug.cgi?id=28619)|Armored Fist 3: distorted audio playback| [code patch](https://bugs.winehq.org/attachment.cgi?id=36954&action=diff)
 |02|[31087](https://bugs.winehq.org/show_bug.cgi?id=31087)| WMI class property retrieval: support custom CIM data type to OLE variant (VT) mapping for properties (ProcessId CIM_UINT32 maps to VT_I4)  | fixurl is in a comment at the very last of the comments list
+
+&nbsp;
+&nbsp;
+Relevant bugs
+|num|id|summery|remark|
+|----|----|----|----|
+|01|[1789](https://bugs.winehq.org/show_bug.cgi?id=1789)| msvcrt type conversion problem | This bug is not about common type conversion. The code wants Exxx-style exponent number, but recieve a Exx-sytle once. |
