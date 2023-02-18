@@ -37,6 +37,6 @@
 
 [freeBSD_bugs](https://github.com/tanhuang01/bugstatics/blob/main/FreeBSD_bugs.md)(47/47 0 bugs)
 
-[Red Hat bugs1(type conversion)](https://github.com/tanhuang01/bugstatics/blob/main/Red_Hat_bug1.md)(0/4010 )
+[Red Hat bugs1(type conversion)](https://github.com/tanhuang01/bugstatics/blob/main/Red_Hat_bug1.md)(120/4010 **1** bugs)
 
 
