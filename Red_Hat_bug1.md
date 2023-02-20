@@ -11,4 +11,6 @@ The code patch is in the attachment-block, or in the very last comments.
 |02 | [1336268](https://bugzilla.redhat.com/show_bug.cgi?id=1336268) | GlusterFS | features/index: clang compile warnings in index.c | FixUrl: https://review.gluster.org/#/c/glusterfs/+/14409/|
 |03 | [1335232](https://bugzilla.redhat.com/show_bug.cgi?id=1335232) | GlusterFS | features/index: clang compile warnings in index.c | FixUrl: https://review.gluster.org/#/c/glusterfs/+/14318/ |
 | 04 |[1785611](https://bugzilla.redhat.com/show_bug.cgi?id=1785611) | GlusterFS | glusterfsd cashes after a few seconds | FixUrl: https://review.gluster.org/#/c/glusterfs/+/23912/ | 
-|05 | [892870](https://bugzilla.redhat.com/show_bug.cgi?id=892870) | Security Response | (CVE-2013-0156) - CVE-2013-0156 rubygem-activesupport: Multiple vulnerabilities in parameter parsing in ActionPack | FixUrls are in the attatchment block | 
+|05 | [892870](https://bugzilla.redhat.com/show_bug.cgi?id=892870) | Security Response | (CVE-2013-0156) - CVE-2013-0156 rubygem-activesupport: Multiple vulnerabilities in parameter parsing in ActionPack | FixUrls are in the attatchment block |
+|06 | [170174](https://bugzilla.redhat.com/show_bug.cgi?id=170174) | Fedora | syscall6() fails to compile with g++ | | 
+|07 | [176894](https://bugzilla.redhat.com/show_bug.cgi?id=176894) | htdig fails to build in rawhide | | 
