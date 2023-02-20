@@ -13,4 +13,5 @@ The code patch is in the attachment-block, or in the very last comments.
 | 04 |[1785611](https://bugzilla.redhat.com/show_bug.cgi?id=1785611) | GlusterFS | glusterfsd cashes after a few seconds | FixUrl: https://review.gluster.org/#/c/glusterfs/+/23912/ | 
 |05 | [892870](https://bugzilla.redhat.com/show_bug.cgi?id=892870) | Security Response | (CVE-2013-0156) - CVE-2013-0156 rubygem-activesupport: Multiple vulnerabilities in parameter parsing in ActionPack | FixUrls are in the attatchment block |
 |06 | [170174](https://bugzilla.redhat.com/show_bug.cgi?id=170174) | Fedora | syscall6() fails to compile with g++ | | 
-|07 | [176894](https://bugzilla.redhat.com/show_bug.cgi?id=176894) | htdig fails to build in rawhide | | 
+|07 | [176894](https://bugzilla.redhat.com/show_bug.cgi?id=176894) | Fedora |  htdig fails to build in rawhide | | 
+|08 | [127804](https://bugzilla.redhat.com/show_bug.cgi?id=1272084) | ovirt-engine | During migration: execution failed: java.lang.Boolean cannot be cast to java.util.Map | FixUrls are in the Link block | 
